@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.*?>
+<GridPane alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="582.0" prefWidth="832.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="weatherController">
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="819.0" minWidth="10.0" prefWidth="209.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="882.0" minWidth="10.0" prefWidth="642.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="837.0" minWidth="10.0" prefWidth="263.0" />
+    </columnConstraints>
+
+    <rowConstraints>
+        <RowConstraints maxHeight="267.0" minHeight="10.0" prefHeight="51.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="270.0" minHeight="0.0" prefHeight="56.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="270.0" minHeight="0.0" prefHeight="56.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="270.0" minHeight="0.0" prefHeight="0.0" vgrow="SOMETIMES" />
+      <RowConstraints maxHeight="441.0" minHeight="0.0" prefHeight="441.0" vgrow="SOMETIMES" />
+    </rowConstraints>
+
+    <TextArea id="output" fx:id="output" prefHeight="750.0" prefWidth="910.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+        <font>
+            <Font name="Magneto Bold" size="18.0" />
+        </font>
+    </TextArea>
+
+    <Button id="submit" fx:id="submit" alignment="CENTER" contentDisplay="RIGHT" depthTest="DISABLE" mnemonicParsing="false" onAction="#submitAction" opacity="0.77" prefHeight="30.0" prefWidth="217.0" text="Submit" textAlignment="CENTER" textOverrun="WORD_ELLIPSIS" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2">
+        <font>
+            <Font size="18.0" />
+        </font>
+        <textFill>
+            <LinearGradient cycleMethod="REPEAT" endX="0.6857142857142857" endY="0.9095238095238096" startX="0.6761904761904762">
+                <stops>
+                    <Stop color="BLACK" />
+                    <Stop color="#00ffd4" offset="1.0" />
+                </stops>
+            </LinearGradient>
+        </textFill>
+    </Button>
+
+    <Label alignment="CENTER" prefHeight="36.0" prefWidth="178.0" text="State" textFill="#03c2fc">
+        <font>
+            <Font size="18.0" />
+        </font>
+    </Label>
+
+    <Label alignment="CENTER" prefHeight="36.0" prefWidth="185.0" text="City" textFill="#03c2fc" GridPane.hgrow="SOMETIMES" GridPane.rowIndex="1">
+        <font>
+            <Font size="18.0" />
+        </font>
+    </Label>
+
+    <TextField id="state" fx:id="state" prefHeight="42.0" prefWidth="250.0" promptText="Please Enter A State Abbreviation" GridPane.columnIndex="1">
+        <font>
+            <Font size="18.0" />
+        </font>
+    </TextField>
+
+    <TextField id="city" fx:id="city" prefHeight="45.0" prefWidth="250.0" promptText="Enter A City Based On The State" GridPane.columnIndex="1" GridPane.rowIndex="1">
+        <font>
+            <Font size="18.0" />
+        </font>
+    </TextField>
+   <Rectangle id="image" fx:id="image" arcHeight="5.0" arcWidth="5.0" height="114.0" strokeType="INSIDE" width="109.0" GridPane.rowIndex="4">
+      <stroke>
+         <RadialGradient centerX="0.4722222222222222" centerY="0.5" radius="0.5">
+            <stops>
+               <Stop color="#bf2727" />
+               <Stop color="#bf282800" offset="1.0" />
+            </stops>
+         </RadialGradient>
+      </stroke>
+      <fill>
+         <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+            <stops>
+               <Stop color="WHITE" />
+               <Stop color="#bf282800" offset="1.0" />
+            </stops>
+         </RadialGradient>
+      </fill></Rectangle>
+
+
+</GridPane>

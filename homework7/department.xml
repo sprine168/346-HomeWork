@@ -1,0 +1,2673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+   <action>department</action>
+   <items>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>ACT102</courseId>
+         <crn>10251</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Lawson, G</instructor>
+         <messages>ADDITIONAL FEE: Computer Intensive Course Fee 45.00 FLAT??(Flat Fee) ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>21</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Intro to Web Page Development</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=ACT&amp;crse_number=102&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>ACT102</courseId>
+         <crn>10253</crn>
+         <days>W</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Lawson, G</instructor>
+         <messages>ADDITIONAL FEE: Computer Intensive Course Fee 45.00 FLAT??(Flat Fee) ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Intro to Web Page Development</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=ACT&amp;crse_number=102&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>ACT211</courseId>
+         <crn>12298</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hecker, C</instructor>
+         <messages>ADDITIONAL FEE: Computer Intensive Course Fee 45.00 FLAT??(Flat Fee) ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>18</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Internet Scripting</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=ACT&amp;crse_number=211&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>ACT301</courseId>
+         <crn>12113</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Noynaert, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>24</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Applied Database Systems</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=ACT&amp;crse_number=301&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>ACT405</courseId>
+         <crn>11961</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hecker, C</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>20</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>Business Intelligence</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=ACT&amp;crse_number=405&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>CSC184</courseId>
+         <crn>10257</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kendall-Morwick, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>21</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>Computing Concepts I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=184&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>CSC184</courseId>
+         <crn>10258</crn>
+         <days>T</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kendall-Morwick, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Computing Concepts I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=184&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>CSC200</courseId>
+         <crn>11575</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Noynaert, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>21</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Computer Systems and Architect</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=200&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>CSC201</courseId>
+         <crn>13234</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Noynaert, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>12</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Microcomputer Applications</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=201&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC208</courseId>
+         <crn>10265</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kwok, Y</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Discrete Structures I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=208&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC245</courseId>
+         <crn>10266</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hecker, C</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Enterprise Sys Comp: COBOL I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=245&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC254</courseId>
+         <crn>10267</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Noynaert, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>5:00PM-6:20PM</time>
+         <title>Computing Concepts II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=254&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC294</courseId>
+         <crn>12317</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Lawson, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-3:20PM</time>
+         <title>Networking and Telecommunicati</title>
+         <type>Classroom w/Some Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=294&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC328</courseId>
+         <crn>11962</crn>
+         <days>R</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Pickett, H</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>15</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Computer Graphics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=328&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC384</courseId>
+         <crn>11972</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Yan, B</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>16</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-2:20PM</time>
+         <title>Comp Architect &amp; Assembly Lang</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=384&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC400</courseId>
+         <crn>10271</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hecker, C</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>18</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:50AM</time>
+         <title>Systems Analysis and Design</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=400&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC406</courseId>
+         <crn>12328</crn>
+         <days>F</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Pickett, H</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>15</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-3:50PM</time>
+         <title>Obj Oriented App and Prog Dev</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=406&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC410</courseId>
+         <crn>12329</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Lawson, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>5</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:30PM-3:50PM</time>
+         <title>Network Security Technologies</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=410&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>13329</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Yan, B</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>13603</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kendall-Morwick, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>10276</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Noynaert, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>13604</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hecker, C</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>13605</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Pickett, H</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>14680</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kwok, Y</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>06</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=06</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC450</courseId>
+         <crn>14738</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>1</hours>
+         <instructor>Lawson, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>07</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=450&amp;seq_number_key=07</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC451</courseId>
+         <crn>10279</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hecker, C</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>-1</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Internship in Computer Science</title>
+         <type>Intern/Pract/Field Exp/Se</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=451&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC520</courseId>
+         <crn>14900</crn>
+         <days>M</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kwok, Y</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>15</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Adv Networking/Network Admin</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=520&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC550</courseId>
+         <crn>13633</crn>
+         <days>T</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Yan, B</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>15</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Applied Cryptography</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=550&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC570</courseId>
+         <crn>14293</crn>
+         <days>R</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Yan, B</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>20</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Ethical Hacking</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=570&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC605</courseId>
+         <crn>14682</crn>
+         <days>W</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kendall-Morwick, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>12</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-9:20PM</time>
+         <title>Software Implement and Integra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=605&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>CSC625</courseId>
+         <crn>14294</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Kwok, Y</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>14</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>5:00PM-6:20PM</time>
+         <title>Network Info Systems Security</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=625&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>CSC660</courseId>
+         <crn>13324</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>3</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Graduate Internship</title>
+         <type>Intern/Pract/Field Exp/Se</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=CSC&amp;crse_number=660&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>10631</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hansbrough, J</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-8:50AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>10632</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hansbrough, J</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>10633</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Brown, R</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14808</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>McWilliams, D</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14809</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>McWilliams, D</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14810</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hansbrough, J</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>06</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=06</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14280</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hansbrough, J</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>07</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-9:20AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=07</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14770</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Brown, R</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>08</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-9:20AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=08</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14771</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>McWilliams, D</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>09</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:50AM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=09</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14772</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>McWilliams, D</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>10</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-12:20PM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=10</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14281</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Davison, C</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>11</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=11</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14773</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Davison, C</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>12</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-3:20PM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=12</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14285</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Gallagher, S</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>13</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>3:30PM-4:50PM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=13</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT083</courseId>
+         <crn>14286</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Gallagher, S</instructor>
+         <messages>ADDITIONAL FEE: Developmental Math Fee 95.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>105</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>14</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>5:00PM-6:20PM</time>
+         <title>Foundations/Univ Math II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=083&amp;seq_number_key=14</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>10282</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Boring, M</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 01</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>10284</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Poet, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 03</messages>
+         <numberEnrolled null="true" />
+         <room>224</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>13614</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Brown, R</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 04</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>14958</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Chester, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 05</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-9:20AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>13617</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Bucher, M</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 06</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>06</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=06</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>14776</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>McCune, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 07</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>07</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-12:20PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=07</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110</courseId>
+         <crn>13621</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Bucher, M</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 08</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>08</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=08</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT110</courseId>
+         <crn>14962</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Waters, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110E 40</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>25</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Contemporary Problem Solving</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14347</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Boring, M</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 01</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>23</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14349</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Poet, J</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 03</messages>
+         <numberEnrolled null="true" />
+         <room>224</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14350</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Brown, R</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 04</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14775</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Chester, L</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 05</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>23</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-9:20AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14352</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Bucher, M</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 06</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>06</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=06</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14777</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>McCune, L</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 07</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>23</seatsAvailable>
+         <section>07</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-12:20PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=07</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14354</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Bucher, M</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 08</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>08</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=08</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14355</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Chester, L</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>09</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=09</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14356</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Chester, L</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>10</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=10</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14357</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>McWilliams, D</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>328</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>11</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=11</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14358</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>McWilliams, D</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>328</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>12</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-2:50PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=12</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14779</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>McCune, L</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>328</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>13</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:20AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=13</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14368</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Brown, R</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>328</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>14</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=14</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT110E</courseId>
+         <crn>14780</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Brown, R</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>224</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>15</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:20PM</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=15</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT110E</courseId>
+         <crn>14963</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Waters, G</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT110 40</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>21</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Contemporary Problem Solving</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT110E</courseId>
+         <crn>14964</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Waters, G</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>21</seatsAvailable>
+         <section>41</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Contemporary Problem Solving</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=110E&amp;seq_number_key=41</url>
+      </item>
+      <item>
+         <building>Murphy Hall</building>
+         <courseId>MAT111</courseId>
+         <crn>14788</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111E 01</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Spratt Hall</building>
+         <courseId>MAT111</courseId>
+         <crn>14789</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111E 02</messages>
+         <numberEnrolled null="true" />
+         <room>103</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT111</courseId>
+         <crn>14790</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Anderson, K</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111E 03</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Murphy Hall</building>
+         <courseId>MAT111</courseId>
+         <crn>14791</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Klassen, S</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111E 04</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT111</courseId>
+         <crn>14792</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Klassen, S</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>20</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Introductory Statistics</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Murphy Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14793</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Staff</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111 01</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Spratt Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14794</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Staff</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111 02</messages>
+         <numberEnrolled null="true" />
+         <room>103</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14795</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Anderson, K</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111 03</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>23</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Murphy Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14796</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Klassen, S</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: MAT111 04</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Introductory Statistics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14797</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Klassen, S</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-2:50PM</time>
+         <title>Introductory Statistics</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14798</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Hansbrough, J</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>06</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:20AM</time>
+         <title>Introductory Statistics</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=06</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT111E</courseId>
+         <crn>14799</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Hansbrough, J</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Math Corequisite Fee 10.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>07</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Introductory Statistics</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=111E&amp;seq_number_key=07</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT112</courseId>
+         <crn>14333</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Chester, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Finite Mathematics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=112&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT112</courseId>
+         <crn>13963</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Chester, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Finite Mathematics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=112&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT112</courseId>
+         <crn>13964</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Rice, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>24</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Finite Mathematics</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=112&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT116</courseId>
+         <crn>10293</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Anderson, K</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>117</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-9:50AM</time>
+         <title>College Algebra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=116&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT116</courseId>
+         <crn>10294</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Boring, M</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>117</room>
+         <seatsAvailable>24</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>College Algebra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=116&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT116</courseId>
+         <crn>11978</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Anderson, K</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>117</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>College Algebra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=116&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT116</courseId>
+         <crn>13967</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>117</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:30AM-10:50AM</time>
+         <title>College Algebra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=116&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT116</courseId>
+         <crn>14336</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>117</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>College Algebra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=116&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT116</courseId>
+         <crn>10301</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Rice, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>24</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>College Algebra</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=116&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT119</courseId>
+         <crn>10474</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>2</hours>
+         <instructor>Bucher, M</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>117</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-1:50PM</time>
+         <title>Trigonometry</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=119&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT119</courseId>
+         <crn>12642</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>2</hours>
+         <instructor>McCune, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>25</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-2:50PM</time>
+         <title>Trigonometry</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=119&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>MAT119</courseId>
+         <crn>14781</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>2</hours>
+         <instructor>McCune, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>24</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Trigonometry</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=119&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT147</courseId>
+         <crn>10479</crn>
+         <days>MF</days>
+         <department>CSMP</department>
+         <endDate null="true" />
+         <hours>5</hours>
+         <instructor>Waters, G</instructor>
+         <messages />
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>0</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term null="true" />
+         <time>11:00AM-11:50AM</time>
+         <title>Applied Calculus</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=147&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT147</courseId>
+         <crn>10479</crn>
+         <days>MF|TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>5</hours>
+         <instructor>Waters, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>126|Agenst</room>
+         <seatsAvailable>20</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM|11:00AM-12:20PM</time>
+         <title>Applied Calculus</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=147&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT165</courseId>
+         <crn>12644</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Bucher, M</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>326</room>
+         <seatsAvailable>21</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Calc w/ Analytic Geom I: Diff</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=165&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT167</courseId>
+         <crn>10480</crn>
+         <days>MF</days>
+         <department>CSMP</department>
+         <endDate null="true" />
+         <hours>5</hours>
+         <instructor>Staff</instructor>
+         <messages />
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>0</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term null="true" />
+         <time>8:00AM-8:50AM</time>
+         <title>Calculus/Analytic Geometry I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=167&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT167</courseId>
+         <crn>10480</crn>
+         <days>MF|TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>5</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123|Agenst</room>
+         <seatsAvailable>22</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-8:50AM|8:00AM-9:20AM</time>
+         <title>Calculus/Analytic Geometry I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=167&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT177</courseId>
+         <crn>10482</crn>
+         <days>MF</days>
+         <department>CSMP</department>
+         <endDate null="true" />
+         <hours>5</hours>
+         <instructor>Rice, G</instructor>
+         <messages />
+         <numberEnrolled null="true" />
+         <room>123</room>
+         <seatsAvailable>0</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term null="true" />
+         <time>11:00AM-11:50AM</time>
+         <title>Calculus/Analytic Geometry II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=177&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT177</courseId>
+         <crn>10482</crn>
+         <days>MF|TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>5</hours>
+         <instructor>Rice, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>123|Agenst</room>
+         <seatsAvailable>20</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM|11:00AM-12:20PM</time>
+         <title>Calculus/Analytic Geometry II</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=177&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT206</courseId>
+         <crn>12646</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Anderson, K</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>126</room>
+         <seatsAvailable>23</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-3:20PM</time>
+         <title>Mathematical Transitions</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=206&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT263</courseId>
+         <crn>14782</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hegeman, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>19</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>2:00PM-3:20PM</time>
+         <title>History of Mathematics</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=263&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT317</courseId>
+         <crn>14783</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Waters, G</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>17</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>12:30PM-1:50PM</time>
+         <title>Differential Equations</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=317&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT352</courseId>
+         <crn>10488</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Poet, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>224</room>
+         <seatsAvailable>13</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-12:20PM</time>
+         <title>Math Elem/Middle Teachers I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=352&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Northland CLASSRM</building>
+         <courseId>MAT352</courseId>
+         <crn>14042</crn>
+         <days>MW</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>McCune, L</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>2</room>
+         <seatsAvailable>19</seatsAvailable>
+         <section>20</section>
+         <semester>201910</semester>
+         <term>WI Full Term</term>
+         <time>8:00AM-9:20AM</time>
+         <title>Math Elem/Middle Teachers I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=352&amp;seq_number_key=20</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT416</courseId>
+         <crn>14784</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Poet, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>119</room>
+         <seatsAvailable>16</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-8:50AM</time>
+         <title>Abstract Algebra</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=416&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>MAT450</courseId>
+         <crn>13238</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Independent Research/Project</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=450&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>MAT451</courseId>
+         <crn>14107</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Staff</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>0</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Internship in Mathematics</title>
+         <type>Independent Research</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=451&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>MAT465</courseId>
+         <crn>14786</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Hegeman, J</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>127</room>
+         <seatsAvailable>23</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>8:00AM-9:20AM</time>
+         <title>Math Teaching:Methods &amp; Matrls</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=465&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>MAT609</courseId>
+         <crn>12802</crn>
+         <days>M</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Klassen, S</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>108</room>
+         <seatsAvailable>21</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>6:30PM-8:20PM</time>
+         <title>Tech, Analysis/Decision Making</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=MAT&amp;crse_number=609&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>PHY104</courseId>
+         <crn>14295</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Bucklein, B</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: PHY104 80</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>43</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Introduction to Astronomy</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY104</courseId>
+         <crn>11211</crn>
+         <days>M</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Bucklein, B</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>111</room>
+         <seatsAvailable>20</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-2:50PM</time>
+         <title>Introduction to Astronomy</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY104</courseId>
+         <crn>11212</crn>
+         <days>T</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Bucklein, B</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>111</room>
+         <seatsAvailable>21</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-2:50PM</time>
+         <title>Introduction to Astronomy</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY104</courseId>
+         <crn>11213</crn>
+         <days>W</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Godfrey, C</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>111</room>
+         <seatsAvailable>19</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-2:50PM</time>
+         <title>Introduction to Astronomy</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY104</courseId>
+         <crn>11214</crn>
+         <days>R</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Godfrey, C</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>111</room>
+         <seatsAvailable>21</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-2:50PM</time>
+         <title>Introduction to Astronomy</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Online Course</building>
+         <courseId>PHY104</courseId>
+         <crn>11210</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Godfrey, C</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>40</seatsAvailable>
+         <section>40</section>
+         <semester>201910</semester>
+         <term>Distance Education</term>
+         <time>-</time>
+         <title>Introduction to Astronomy</title>
+         <type>100% Online</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=40</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>PHY104</courseId>
+         <crn>14666</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Bucklein, B</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee) This course is crosslisted with: PHY104 01</messages>
+         <numberEnrolled null="true" />
+         <room>124</room>
+         <seatsAvailable>46</seatsAvailable>
+         <section>80</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>11:00AM-11:50AM</time>
+         <title>Intro to Astronomy (Honors)</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=104&amp;seq_number_key=80</url>
+      </item>
+      <item>
+         <building>Agenstein Hall</building>
+         <courseId>PHY110</courseId>
+         <crn>11216</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>4</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>324</room>
+         <seatsAvailable>65</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>College Physics I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=110&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY110</courseId>
+         <crn>11217</crn>
+         <days>T</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>109</room>
+         <seatsAvailable>17</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-3:50PM</time>
+         <title>College Physics I</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=110&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY110</courseId>
+         <crn>11218</crn>
+         <days>W</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>109</room>
+         <seatsAvailable>16</seatsAvailable>
+         <section>03</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-3:50PM</time>
+         <title>College Physics I</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=110&amp;seq_number_key=03</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY110</courseId>
+         <crn>11219</crn>
+         <days>R</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>109</room>
+         <seatsAvailable>12</seatsAvailable>
+         <section>04</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>1:00PM-3:50PM</time>
+         <title>College Physics I</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=110&amp;seq_number_key=04</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY110</courseId>
+         <crn>14321</crn>
+         <days>R</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>109</room>
+         <seatsAvailable>20</seatsAvailable>
+         <section>05</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>4:30PM-7:20PM</time>
+         <title>College Physics I</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=110&amp;seq_number_key=05</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY210</courseId>
+         <crn>11220</crn>
+         <days>MWF</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>5</hours>
+         <instructor>Bucklein, B</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room>109</room>
+         <seatsAvailable>15</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>10:00AM-10:50AM</time>
+         <title>University Physics I</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=210&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Remington Hall</building>
+         <courseId>PHY210</courseId>
+         <crn>11221</crn>
+         <days>TR</days>
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>0</hours>
+         <instructor>Bucklein, B</instructor>
+         <messages>You must register for both a Lecture and Lab for this course. ADDITIONAL FEE: Physics Lab Fee 25.00 FLAT??(Flat Fee)</messages>
+         <numberEnrolled null="true" />
+         <room>109</room>
+         <seatsAvailable>15</seatsAvailable>
+         <section>02</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>9:00AM-10:50AM</time>
+         <title>University Physics I</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=210&amp;seq_number_key=02</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>PHY312</courseId>
+         <crn>13880</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>3</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>9</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>University Physics III</title>
+         <type>Lecture, 100% in Classroo</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=312&amp;seq_number_key=01</url>
+      </item>
+      <item>
+         <building>Arranged ARRG</building>
+         <courseId>PHY313</courseId>
+         <crn>14327</crn>
+         <days />
+         <department>CSMP</department>
+         <endDate>2018/12/14</endDate>
+         <hours>1</hours>
+         <instructor>Sithole, A</instructor>
+         <messages>ADDITIONAL FEE: Science and Math Program Fee 28.25 CRED??(per Credit Hour fee)</messages>
+         <numberEnrolled null="true" />
+         <room />
+         <seatsAvailable>8</seatsAvailable>
+         <section>01</section>
+         <semester>201910</semester>
+         <term>Full Term</term>
+         <time>-</time>
+         <title>Modern Physics Laboratory</title>
+         <type>Lab</type>
+         <url>default.asp?tck=201910&amp;page=details&amp;subj_code=PHY&amp;crse_number=313&amp;seq_number_key=01</url>
+      </item>
+   </items>
+</courses>
